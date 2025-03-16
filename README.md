@@ -17,7 +17,7 @@ Aspiring computer science student prefinal year @ VSB
 
 <br>
 <a href="https://leetcode.com/tnlogesh">
-    <img src="https://leetcard.jacoblin.cool/Dinesh638R?=dark&font=Goldman&ext=activityy"></img>
+    <img src="https://leetcard.jacoblin.cool/tnlogesh?=dark&font=Goldman&ext=activityy"></img>
 <a>
 
 <!------------------------------------------>
