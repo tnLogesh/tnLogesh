@@ -12,8 +12,8 @@ Aspiring computer science student prefinal year @ VSB
 
 # Leetcode
 
-
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<!--
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>-->
 
 <br>
 <a href="https://leetcode.com/tnlogesh">
