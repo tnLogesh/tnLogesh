@@ -29,7 +29,11 @@ Aspiring computer science student prefinal year @ VSB
 
 - **LeetCode:** [tnlogesh](https://leetcode.com/tnlogesh/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnLogesh&show_icons=true&locale=en&layout=compact" alt="irai24" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irai24&show_icons=true&locale=en" alt="irai24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnLogesh&" alt="irai24" /></p>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
