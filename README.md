@@ -31,7 +31,8 @@ Aspiring computer science student prefinal year @ VSB
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnLogesh&show_icons=true&locale=en&layout=compact" alt="tnLogesh" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tnLogesh&show_icons=true&locale=en" alt="tnLogesh" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnLogesh&theme=radical&fire=DD2727" alt="tnLogesh" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tnLogesh&theme=github" />
+
 
 
 
