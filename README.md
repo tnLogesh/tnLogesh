@@ -31,8 +31,7 @@ Aspiring computer science student prefinal year @ VSB
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnLogesh&show_icons=true&locale=en&layout=compact" alt="tnLogesh" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tnLogesh&show_icons=true&locale=en" alt="tnLogesh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnLogesh&" alt="tnLogesh" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=tnLogesh&show_icons=true&theme=radical" />
+
 
 
 ### I code in
